@@ -28,6 +28,7 @@ import {
 const wrapperTemplateMap = {
   'aws-nodejs6.10': 'wrapper-aws-nodejs.js',
   'aws-nodejs8.10': 'wrapper-aws-nodejs.js',
+  'aws-nodejs18.x': 'wrapper-aws-nodejs.js',
 }
 
 export default class ServerlessChrome {
